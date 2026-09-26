@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="813f5b22-d6d1-4814-ab9f-81c75705e2f6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,77 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jadahundley31"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jadahundley31/software-dev-course-classes-and-objects-1.git",
+    "accountId": "97ed0d92-c5d2-4b33-bd29-868690bb490a"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000591929255" />
+      <entry key="MS500" value="1.0358470979925367" />
+      <entry key="S2" value="1.4428146912996556" />
+      <entry key="S5" value="1.871954199754624" />
+      <entry key="S10" value="2.404442249204736" />
+      <entry key="S30" value="4.480095381283792" />
+      <entry key="S60" value="7.311460664457074" />
+      <entry key="M2" value="11.380283743818792" />
+      <entry key="M5" value="17.287264656816085" />
+      <entry key="M10" value="22.8407464918247" />
+      <entry key="M15" value="26.833798848275052" />
+      <entry key="M30" value="35.889001822063626" />
+      <entry key="H1" value="51.692996328019554" />
+      <entry key="H2" value="73.38912544829154" />
+      <entry key="H4" value="93.20114119294136" />
+      <entry key="D1" value="117.85742604329022" />
+      <entry key="W1" value="123.09371126423457" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="5.438350042724583E-95" />
+      <entry key="MS500" value="1.4031155301045049E-19" />
+      <entry key="S2" value="1.9381677662497507E-5" />
+      <entry key="S5" value="0.014783804015717139" />
+      <entry key="S10" value="0.19933886588469207" />
+      <entry key="S30" value="2.0353059101468394" />
+      <entry key="S60" value="4.39678933084922" />
+      <entry key="M2" value="6.811854658075212" />
+      <entry key="M5" value="9.177510773567896" />
+      <entry key="M10" value="10.475452579596093" />
+      <entry key="M15" value="11.170105520887953" />
+      <entry key="M30" value="12.716222937187496" />
+      <entry key="H1" value="15.270582969092128" />
+      <entry key="H2" value="18.397908761334225" />
+      <entry key="H4" value="21.059044125150653" />
+      <entry key="D1" value="24.227883126962027" />
+      <entry key="W1" value="24.88644353203235" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.588552071195077E-4" />
+      <entry key="MS500" value="0.1766071089976005" />
+      <entry key="S2" value="0.8800211984144893" />
+      <entry key="S5" value="1.5395542826180941" />
+      <entry key="S10" value="2.354362031055152" />
+      <entry key="S30" value="6.304588824500767" />
+      <entry key="S60" value="11.517501533376732" />
+      <entry key="M2" value="18.042434328842898" />
+      <entry key="M5" value="26.373417773773955" />
+      <entry key="M10" value="33.254991471732026" />
+      <entry key="M15" value="37.95598532436107" />
+      <entry key="M30" value="48.5742507222995" />
+      <entry key="H1" value="66.94369308369288" />
+      <entry key="H2" value="91.77473377259159" />
+      <entry key="H4" value="114.25307953698254" />
+      <entry key="D1" value="142.0839395082213" />
+      <entry key="W1" value="147.9799536801172" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -34,21 +106,58 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.All in software-dev-course-classes-and-objects-1.executor": "Run",
+    "JUnit.CalculatorTests.executor": "Run",
+    "JUnit.CalculatorTests.testAdd.executor": "Run",
     "JUnit.StringUtilitiesTests.executor": "Run",
+    "JUnit.StringUtilitiesTests.testFirstLetter.executor": "Run",
+    "JUnit.StringUtilitiesTests.testShortString.executor": "Run",
     "JUnit.org.example in software-dev-course-classes-and-objects-1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mikel/projects/java/software-dev-course-classes-and-objects-1/pom.xml"
+    "last_opened_file_path": "/home/mikel/projects/java/software-dev-course-classes-and-objects-1/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.All in software-dev-course-classes-and-objects-1">
-    <configuration name="All in software-dev-course-classes-and-objects-1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CalculatorTests">
+    <configuration name="CalculatorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-classes-and-objects-1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CalculatorTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTests.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-classes-and-objects-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CalculatorTests" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,7 +177,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example in software-dev-course-classes-and-objects-1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringUtilitiesTests.testFirstLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-classes-and-objects-1" />
       <extension name="coverage">
         <pattern>
@@ -77,18 +186,46 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="org.example.StringUtilitiesTests" />
+      <option name="METHOD_NAME" value="testFirstLetter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringUtilitiesTests.testShortString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-classes-and-objects-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.StringUtilitiesTests" />
+      <option name="METHOD_NAME" value="testShortString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in software-dev-course-classes-and-objects-1" />
+        <item itemvalue="JUnit.CalculatorTests" />
         <item itemvalue="JUnit.StringUtilitiesTests" />
-        <item itemvalue="JUnit.org.example in software-dev-course-classes-and-objects-1" />
+        <item itemvalue="JUnit.StringUtilitiesTests.testFirstLetter" />
+        <item itemvalue="JUnit.StringUtilitiesTests.testShortString" />
+        <item itemvalue="JUnit.CalculatorTests.testAdd" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -100,5 +237,8 @@
       <updated>1738943649568</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
